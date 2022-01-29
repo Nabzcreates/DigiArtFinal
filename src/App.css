@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    background-color: #041010;
+}
+html,
+body {
+    min-height: 100%;
+}
+
+.App {
+    /* height: 100vh; */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
